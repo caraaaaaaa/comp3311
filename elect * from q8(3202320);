@@ -1,0 +1,32 @@
+   code   | term | prog |         name         | mark | grade | uoc 
+----------+------+------+----------------------+------+-------+-----
+ ACCT1501 | 04s1 | 3978 | Accounting & Financi |   55 | PS    |   6
+ COMP1711 | 04s1 | 3978 | Higher Computing 1A  |   62 | PS    |   6
+ MATH1081 | 04s1 | 3978 | Discrete Mathematics |   64 | PS    |   6
+ MATH1141 | 04s1 | 3978 | Higher Mathematics 1 |   76 | DN    |   6
+ BENV1043 | 04s2 | 3978 | Multimedia in Des Pr |   86 | HD    |   6
+ COMP1721 | 04s2 | 3978 | Higher Computing 1B  |   90 | HD    |   6
+ COMP9311 | 04s2 | 3978 | Database Systems     |   72 | CR    |   6
+ MATH1241 | 04s2 | 3978 | Higher Mathematics 1 |   72 | CR    |   6
+ COMP2021 | 05s1 | 3978 | Digital System Struc |   80 | DN    |   6
+ COMP2041 | 05s1 | 3978 | Software Constructio |   88 | HD    |   6
+ COMP2711 | 05s1 | 3978 | Higher Data Organisa |   66 | CR    |   6
+ GENC7002 | 05s1 | 3978 | Getting Into Busines |   61 | PS    |   6
+ GENT0404 | 05s1 | 3978 | Gods, Heroines and H |   69 | CR    |   3
+ COMP3441 | 05s2 | 3978 | Security Engineering |   75 | DN    |   6
+ COMP2920 | 06s1 | 3978 | Professional Issues  |   68 | CR    |   3
+ COMP3111 | 06s1 | 3978 | Software Engineering |   79 | DN    |   6
+ COMP3331 | 06s1 | 3978 | Computer Networks&Ap |   76 | DN    |   6
+ COMP3821 | 06s1 | 3978 | Ext Algorithms&Prog  |   56 | PS    |   6
+ COMP3891 | 06s1 | 3978 | Ext Operating System |   78 | DN    |   6
+ COMP3421 | 06s2 | 3978 | Computer Graphics    |   63 | PS    |   6
+ COMP4431 | 07a1 | 3978 | Game Design Workshop |   79 | DN    |   6
+ COMP4905 | 07a1 | 3978 | Industrial Training  |      | SY    |  15
+ COMP3171 | 07a2 | 3978 | Object-Oriented Prog |   63 | PS    |   6
+ COMP9321 | 07a2 | 3978 | Web Applications Eng |   85 | HD    |   6
+ GEND1209 | 07a2 | 3978 | Black and White Phot |   82 | DN    |   3
+ COMP3411 | 08s1 | 3978 | Artificial Intellige |   50 | PS    |   6
+ COMP3161 | 08s2 | 3978 | Concepts of Programm |   69 | CR    |   6
+          |      |      | Overall WAM/UOC      |   72 |       | 162
+(28 rows)
+
